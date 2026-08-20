@@ -16,11 +16,6 @@ A simple and modern offline desktop task manager built with Python and Tkinter.
 - Automatic JSON data storage
 - Dark interface
 - Works completely offline
-
-## Screenshots
-
-Coming soon.
-
 ## Download
 
 Download the latest Windows version from the
