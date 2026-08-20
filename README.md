@@ -1,5 +1,5 @@
 # Task Tracker
-https://github.com/Programer18-a/TaskTracker
+
 A simple and modern offline desktop task manager built with Python and Tkinter.
 
 ## Features
@@ -17,7 +17,7 @@ A simple and modern offline desktop task manager built with Python and Tkinter.
 - Dark interface
 - Works completely offline
 ## Download
-
+https://github.com/Programer18-a/TaskTracker
 Download the latest Windows version from the
 [Releases](../../releases) page.
 
